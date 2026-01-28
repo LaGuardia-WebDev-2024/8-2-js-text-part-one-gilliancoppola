@@ -16,6 +16,16 @@ draw = function(){
 
   //🎯New Text Code Should Go Here 🡻
 
+fill(0,0,0);
+textSize(40);
+text("My Favorite Foods",150,50);
+
+fill(0,0,0);
+textSize(20);
+text("Chicken",70,100);
+text("Baccala with leeks and potatoes",70,130);
+text("Steak",70,160);
+
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
